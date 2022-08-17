@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxvalencik
-- 👀 I’m interested in rock climbing, scuba diving, extreme sports, and travel...while coding
-- 🌱 I’m currently learning Java, Jascript, Python, Ruby, and Patent Law
+- 👀 I’m interested in rock climbing,surfing, scuba diving, extreme sports, and travel...while coding
+- 🌱 I’m currently learning frontend and backend technologies, including Java, Javascript, Python and associated libraries
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me valencikmaxime@gmail.com
 
